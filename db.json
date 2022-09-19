@@ -1,0 +1,119 @@
+{
+  "banner": [
+    {
+      "title": " We Sell The Best Fruits",
+      "desc": "Anything embarrassing hidden in the middle of text. All the Lorem Ipsuanything embarrassing hidden in the middle of text. All the Lorem Ipsumm",
+      "image": "assets/images/slider-img.png",
+      "id": 1
+    }
+  ],
+  "offer": [
+    {
+      "image1": "assets/images/o1.jpg",
+      "offer_percent1": "Upto 20% Off",
+      "image2": "assets/images/o2.jpg",
+      "offer_percent2": "Upto 10% Off",
+      "image3": "assets/images/o3.jpg",
+      "offer_percent3": "Upto 15% Off",
+      "id": 1
+    }
+  ],
+  "Products": [
+    {
+      "image": "assets/images/p1.png",
+      "name": "Orange",
+      "price": "$19",
+      "id": 1
+    },
+    {
+      "image": "assets/images/p2.png",
+      "name": "Durian",
+      "price": "$29",
+      "id": 2
+    },
+    {
+      "image": "assets/images/p3.png",
+      "name": "Kiwi",
+      "price": "$100",
+      "id": 3
+    },
+    {
+      "image": "assets/images/p4.png",
+      "name": "Mango",
+      "price": "$10",
+      "id": 4
+    },
+    {
+      "image": "assets/images/p5.png",
+      "name": "Banana",
+      "price": "$20",
+      "id": 5
+    },
+    {
+      "image": "assets/images/p6.png",
+      "name": "Apple",
+      "price": "$5",
+      "id": 6
+    }
+  ],
+  "about": [
+    {
+      "heading": "About Us",
+      "desc": "The Words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks",
+      "id": 2
+    }
+  ],
+  "blog": [
+    {
+      "title": "Look even slightly believable. If you are",
+      "image": "assets/images/b1.jpg",
+      "desc": "alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "date": " 29 June",
+      "id": 1
+    },
+    {
+      "title": "Anything embarrassing hidden in the middle",
+      "image": "assets/images/b2.jpg",
+      "desc": "alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "date": "28 june",
+      "id": 2
+    }
+  ],
+  "feedback_form": [
+    {
+      "name": "Shivani",
+      "phone": "9340826770",
+      "email": "shivani@gmail.com",
+      "message": "Test",
+      "id": 1
+    },
+    {
+      "name": "Nishi",
+      "phone": "62678567",
+      "email": "nishu@gmail.com",
+      "message": "demo",
+      "id": 2
+    },
+    {
+      "name": "bh",
+      "phone": "23456788",
+      "email": "fg@gmsail.com",
+      "message": "test",
+      "id": 3
+    },
+    {
+      "name": "Shivani",
+      "phone": "45655635434",
+      "email": "thakur@gmail.com",
+      "message": "demo",
+      "id": 4
+    },
+    {
+      "name": "mango",
+      "phone": "46567543",
+      "email": "gm@gmail.com",
+      "message": "trytu",
+      "id": 7
+    }
+  ]
+}

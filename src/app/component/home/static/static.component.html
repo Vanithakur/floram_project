@@ -1,0 +1,44 @@
+
+  <section class="offer_section">
+    <div class="container-fluid">
+      <div class="row" *ngFor="let data of offers">
+        <div class="col-md-7 px-0" >
+          <div class="box offer-box1">
+            <img [src]="data.image1" alt="">
+            <div class="detail-box">
+              <h2>
+                {{ data.offer_percent1 }}
+              </h2>
+              <a routerLink="/fruits">
+                Shop Now
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-5 px-0">
+          <div class="box offer-box2">
+            <img [src]="data.image2" alt="">
+            <div class="detail-box">
+              <h2>
+               {{data.offer_percent2}}
+              </h2>
+              <a routerLink="/fruits">
+                Shop Now
+              </a>
+            </div>
+          </div>
+          <div class="box offer-box3">
+            <img [src]="data.image3" alt="">
+            <div class="detail-box">
+              <h2>
+                {{ data.offer_percent3 }}
+           </h2>
+              <a routerLink="/fruits">
+                Shop Now
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

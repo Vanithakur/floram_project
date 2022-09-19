@@ -1,0 +1,29 @@
+.mapouter{
+    position:relative;
+    text-align:right;
+    width:600px;
+    height: 440px;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    width:600px;height:440px;
+}
+.gmap_iframe {
+    width:600px!important;
+    height:440px!important;
+}
+button.btn.btn-primary{
+    font-size: 14px;
+    padding: 11px;
+    background-color: rgb(78, 78, 197);
+    border-color: rgb(78, 78, 197);
+
+}
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+  }
+  .help-block {
+    color: red;
+    font-size: 14px;
+  }
